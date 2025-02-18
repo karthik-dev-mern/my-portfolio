@@ -1,8 +1,8 @@
-# JS Portfolio Website
+# kk Portfolio Website
 
-[🔗Live Demo🔗](https://sajib.vercel.app/)
+[🔗Live Demo🔗](https://karthik-portfolio-f79f8.web.app/)
 
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
+![Protfolio Website](https://ibb.co/RRvGHMx)
 
 <div align="center">
 
